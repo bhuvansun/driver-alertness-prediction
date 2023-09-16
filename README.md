@@ -6,3 +6,6 @@ This repository contains 2 assignments, and 1 real-world project submitted for t
 
 ### Assignment-1: House Price Prediction with Linear Regression
 ### Assignment-2: Decision Trees and Random Forests
+
+<br><br>
+Certificate Link: https://jovian.com/certificate/MFQTQNZTGE
